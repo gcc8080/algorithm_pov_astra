@@ -1,0 +1,199 @@
+1
+00:00:00,000 --> 00:00:07,500
+世界，充满尚未解开的可能。
+The world is filled with possibilities waiting to be unlocked.
+
+2
+00:00:07,500 --> 00:00:15,000
+算法，把一个想法变成可以执行的步骤。
+An algorithm turns an idea into executable steps.
+
+3
+00:00:15,000 --> 00:00:22,500
+看不见的规则，编排看得见的世界。
+Invisible rules choreograph the visible world.
+
+4
+00:00:22,500 --> 00:00:30,000
+简单的规则，也能孕育复杂而壮丽的结果。
+Simple rules can give rise to intricate, magnificent results.
+
+5
+00:00:30,000 --> 00:00:37,500
+排序，让散落的信息拥有可比较的次序。
+Sorting gives scattered information a comparable order.
+
+6
+00:00:37,500 --> 00:00:45,000
+归并排序，先把问题逐层拆小。
+Merge sort first divides the problem into smaller parts.
+
+7
+00:00:45,000 --> 00:00:52,500
+再合并有序片段，让局部秩序汇成整体。
+It merges sorted runs until local order becomes global order.
+
+8
+00:00:52,500 --> 00:01:00,000
+标准归并排序的时间复杂度为 O(n log n)。
+Standard merge sort runs in O(n log n) time.
+
+9
+00:01:00,000 --> 00:01:07,500
+在有序数据中，二分查找每次排除约一半候选。
+In sorted data, binary search eliminates about half the candidates.
+
+10
+00:01:07,500 --> 00:01:15,000
+比较中点，让搜索范围不断收缩。
+Compare the midpoint. Narrow the search interval.
+
+11
+00:01:15,000 --> 00:01:22,500
+随机访问有序数组时，查找只需 O(log n) 次比较。
+In a sorted random-access array, search takes O(log n) comparisons.
+
+12
+00:01:22,500 --> 00:01:30,000
+图，把道路和连接转化为可计算的关系。
+A graph turns roads and connections into computable relationships.
+
+13
+00:01:30,000 --> 00:01:37,500
+边权非负时，Dijkstra 逐步确定最短距离。
+With nonnegative edge weights, Dijkstra settles shortest distances.
+
+14
+00:01:37,500 --> 00:01:45,000
+每一条最短路径，都来自比较与更新。
+Every shortest path emerges from comparison and relaxation.
+
+15
+00:01:45,000 --> 00:01:52,500
+递归，让问题用更小的同类问题来描述。
+Recursion describes a problem through smaller instances of itself.
+
+16
+00:01:52,500 --> 00:02:00,000
+一次分支，一次重复，尺度中诞生新的风景。
+A branch. A repetition. New landscapes emerge across scales.
+
+17
+00:02:00,000 --> 00:02:07,500
+终止条件，让递归最终回到可解的起点。
+A base case gives recursion a place to stop and resolve.
+
+18
+00:02:07,500 --> 00:02:15,000
+子问题的答案，沿调用层次逐层返回。
+Answers return through the layers of recursive calls.
+
+19
+00:02:15,000 --> 00:02:22,500
+动态规划，把重复的子问题变成可以复用的答案。
+Dynamic programming turns repeated subproblems into reusable answers.
+
+20
+00:02:22,500 --> 00:02:30,000
+状态记录过去，转移连接下一步。
+States record what is known. Transitions connect what comes next.
+
+21
+00:02:30,000 --> 00:02:37,500
+在合适的状态和转移下，逐步构建整体解。
+With suitable states and transitions, build the full solution step by step.
+
+22
+00:02:37,500 --> 00:02:45,000
+存储结果节省重复计算，也带来空间成本。
+Storing results avoids repeated work, at the cost of memory.
+
+23
+00:02:45,000 --> 00:02:52,500
+复杂信号，可以分解为不同频率的成分。
+A complex signal can be decomposed into frequency components.
+
+24
+00:02:52,500 --> 00:03:00,000
+FFT 利用结构与对称，加速离散傅里叶变换。
+The FFT exploits structure and symmetry to accelerate the DFT.
+
+25
+00:03:00,000 --> 00:03:07,500
+时域中的叠加，在频域中显露层次。
+Superposition in time reveals its components in frequency.
+
+26
+00:03:07,500 --> 00:03:15,000
+常见 FFT 将变换计算降至 O(n log n)。
+Common FFT algorithms compute the transform in O(n log n).
+
+27
+00:03:15,000 --> 00:03:22,500
+优化，为每一次选择定义一个目标。
+Optimization gives each choice an objective.
+
+28
+00:03:22,500 --> 00:03:30,000
+梯度下降，沿局部最陡下降方向更新。
+Gradient descent updates along the direction of steepest local decrease.
+
+29
+00:03:30,000 --> 00:03:37,500
+非凸问题中，局部最优未必是全局最优。
+For nonconvex problems, a local optimum need not be global.
+
+30
+00:03:37,500 --> 00:03:45,000
+步长、初始化与停止条件，共同影响结果。
+Step size, initialization, and stopping criteria shape the result.
+
+31
+00:03:45,000 --> 00:03:52,500
+复杂度描述规模增长时，计算成本如何变化。
+Complexity describes how computational cost grows with input size.
+
+32
+00:03:52,500 --> 00:04:00,000
+更快，可能需要更多内存；更省，也可能更慢。
+Speed may require more memory. Saving memory may cost time.
+
+33
+00:04:00,000 --> 00:04:07,500
+硬件、数据分布和约束，让理论遇见现实。
+Hardware, data distributions, and constraints bring theory into practice.
+
+34
+00:04:07,500 --> 00:04:15,000
+边界情况、正确性与验证，是优雅的根基。
+Edge cases, correctness, and validation are the foundation of elegance.
+
+35
+00:04:15,000 --> 00:04:22,500
+排序、搜索、递归、优化，共享思考的语言。
+Sorting, search, recursion, and optimization share a language of thought.
+
+36
+00:04:22,500 --> 00:04:30,000
+算法之美，在于用清晰的步骤驾驭复杂。
+The beauty of algorithms lies in navigating complexity with clear steps.
+
+37
+00:04:30,000 --> 00:04:37,500
+从一条路径，到万千连接。
+From a single path to a universe of connections.
+
+38
+00:04:37,500 --> 00:04:45,000
+真正的力量，来自理解为什么这样前进。
+Real power comes from understanding why each step works.
+
+39
+00:04:45,000 --> 00:04:52,500
+理解算法，让思想拥有改变世界的形状。
+Understand algorithms. Give ideas the power to shape the world.
+
+40
+00:04:52,500 --> 00:05:00,000
+算法之美，始于思考，成于创造。
+The beauty of algorithms begins in thought and comes alive in creation.

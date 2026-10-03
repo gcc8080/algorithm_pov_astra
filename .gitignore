@@ -1,0 +1,10 @@
+node_modules/
+assets/*.ttf
+output/*.wav
+output/*.mp4
+output/*.jpg
+output/*.png
+output/*.log
+output/*.json
+output/chunks.txt
+__pycache__/
